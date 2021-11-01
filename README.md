@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Elysa, also known as Lizzie
+- 👀 I’m interested in Machine Learning, algorithms, simple games, and data science
+- 🌱 I’m currently learning mainly Python, for research in Physics
+- 💞️ I’m looking to collaborate on data analysis and data processing
+- 📫 How to reach me? Through Twitter is your best bet. @lizzie_pi_h
