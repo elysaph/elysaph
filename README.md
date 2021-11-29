@@ -2,4 +2,4 @@
 - 👀 I’m interested in data science, software development, and design
 - 🌱 I’m currently learning a bunch of stuff just to keep fresh and increase expertise and repertoire 
 - 💞️ I’m looking to collaborate on data processing and software development
-- 📫 How to reach me? Through Twitter is your best bet. @lizzie_pi_h / Or, if you'd like, here is my LinkedIn linkedin.com/in/elysa-hamori/
+- 📫 How to reach me? Through Twitter is your best bet. But you can also try my LinkedIn.
