@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elysa, also known as Lizzie
+- 👋 Hi, I’m Elysa, a Physics undergraduate student in Rio de Janeiro
 - 👀 I’m interested in data science, software development, and design
 - 🌱 I’m currently learning a bunch of stuff just to keep fresh and increase repertoire 
 - 💞️ I’m looking to collaborate on data processing and software development
