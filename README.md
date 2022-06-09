@@ -2,4 +2,4 @@
 - 👀 I’m interested in data science, software development, and design
 - 🌱 I’m currently learning a bunch of stuff just to keep fresh and increase repertoire 
 - 💞️ I’m looking to collaborate on data processing and software development
-- 📫 How to reach me? Please try my LinkedIn or sending me an email; elysaph@gmail.com
+- 📫 How to reach me? Please try sending me an email; elysaph@gmail.com
