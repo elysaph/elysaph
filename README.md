@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Elysa, a Physics undergraduate student in Rio de Janeiro
-- 👀 I’m interested in data science, software development, and design
-- 🌱 I’m currently learning a bunch of stuff just to keep fresh and increase repertoire 
-- 💞️ I’m looking to collaborate on data processing and software development
-- 📫 How to reach me? Please try sending me an email; elysaph@gmail.com
+- 👋 Hi, I’m Elysa, a knowledgeable Python programmer located in France
+- 👀 I’m interested in data science, software and web development, and design
+- 🌱 I’m currently learning web design and development
+- 💞️ I’m looking to collaborate on building intuitive, responsive, beautiful websites
+- 📫 How to reach me? Please try sending me an email; elysaph@gmail.com or connecting on LinkedIn 
