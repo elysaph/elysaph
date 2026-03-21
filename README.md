@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Elysa, a Python programmer located in France
+- 👋 Hi, I’m Elysa, a former physicist and now a Python programmer located in France
 - 👀 I’m interested in data science and have done research in the past
-- 🌱 I’m currently learning web design and development
-- 💞️ I’m looking to collaborate on building intuitive, responsive, beautiful websites
+- 🌱 I’m currently doing my second degree in Paris and working for Duplo International
+- 💞️ I’m always open to networking, events, and collaborating on cool ideas!
 - 📫 How to reach me? Please try sending me an email; elysaph@gmail.com
