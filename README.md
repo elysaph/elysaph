@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Elysa, a former physicist and now a Python programmer located in France
-- 👀 I’m interested in data science and have done research in the past
-- 🌱 I’m currently doing my second degree in Paris and working for Duplo International
-- 💞️ I’m always open to networking, events, and collaborating on cool ideas!
-- 📫 How to reach me? Please try sending me an email; elysaph@gmail.com
+- 👋 Hi, I’m Elysa, a physicist and software developer located in France
+- 👀 I’m interested in data science and bespoke software, and have done research in the past (quantum computing)
+- 🌱 I’m currently doing my second degree in Paris and working for Duplo
+- 💞️ I’m always open to network, events, and collaborating on cool ideas!
+- 📫 How to reach me? Please send me an email; elysaph@gmail.com
